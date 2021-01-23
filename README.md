@@ -3,3 +3,7 @@ This is a collection of various [Vectorworks](vectorworks.net) scripts and plugi
 
 ## Import Gobo Images
 This script imports a folder of images of gobos as symbols with a circular crop and a customizable size.
+
+# Useful Links
+[Function Reference](https://developer.vectorworks.net/index.php/VS:Function_Reference)
+[Function Reference Appendix](https://developer.vectorworks.net/index.php/VS:Function_Reference_Appendix)
