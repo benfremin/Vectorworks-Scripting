@@ -1,0 +1,6 @@
+<Plugin>
+	<Package>
+		<File>_main.py</File>
+		<Folder>ui</Folder>
+	</Package>
+</Plugin>
