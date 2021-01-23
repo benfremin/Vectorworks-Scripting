@@ -6,4 +6,5 @@ This script imports a folder of images of gobos as symbols with a circular crop 
 
 # Useful Links
 [Function Reference](https://developer.vectorworks.net/index.php/VS:Function_Reference)
+
 [Function Reference Appendix](https://developer.vectorworks.net/index.php/VS:Function_Reference_Appendix)
